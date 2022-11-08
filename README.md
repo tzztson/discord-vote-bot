@@ -1,4 +1,4 @@
-# top.gg autovoter
+# top.gg auto votting bot.
 
 Python program that utilizes the selenium library to vote for bots on top.gg.
 
@@ -34,7 +34,7 @@ The program opens a top.gg vote site, given a bot ID. It then logs in using the 
 
 ```
 # Votes for bot with id
-python multivote.py -b 432610292342587392
+python multivote.py -b 820020619029674326
 ```
 
 ## Additional information
